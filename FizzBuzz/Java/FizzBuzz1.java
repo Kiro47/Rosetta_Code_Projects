@@ -1,6 +1,17 @@
-
+/*
+* @author James Helm
+* @since 11/23/17
+*/
 public class FizzBuzz1 {
 	
+
+	/**
+	* Basic expected Fizzbuzz program with nothing special about it
+	*
+	*@param args Default string args 
+	*
+	*
+	*/
 	public static void main(String[] args) {
 		
 		// Basic example from 1-100 inclusive
